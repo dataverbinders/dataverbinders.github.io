@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>de dataverbinders.</title>
-    <link>https://dataverbinders.github.io/</link>
-    <description>Recent content on de dataverbinders.</description>
+    <title>Egge van der Poel on de dataverbinders.</title>
+    <link>https://dataverbinders.github.io/authors/egge-van-der-poel/</link>
+    <description>Recent content in Egge van der Poel on de dataverbinders.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
-    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dataverbinders.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dataverbinders.github.io/authors/egge-van-der-poel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wij zijn de dataverbinders.</title>
       <link>https://dataverbinders.github.io/post/wij-zijn-de-dataverbinders/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://dataverbinders.github.io/post/wij-zijn-de-dataverbinders/</guid>
       <description>Wij zijn de dataverbinders. Wij zijn een coöperatie van gedreven specialisten die mensen en organisaties verbindt om meer met data te doen. Wij vormen een sociale onderneming die zich inzet voor een progressief en pragmatisch gebruik van data en aanverwante digitale technologieën voor wezenlijke maatschappelijke en organisatorische vraagstukken. Wij zien onszelf als ‘corporate rebels’ die actief nieuwe vormen van samenwerken opzoeken, gedreven door onze gezamenlijke purpose en met gebruik van verbindende communicatie en zelforganisatie.</description>
-    </item>
-    
-    <item>
-      <title>Storytelling: Josine van der Brug.</title>
-      <link>https://dataverbinders.github.io/post/over-josine-van-der-brug/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dataverbinders.github.io/post/over-josine-van-der-brug/</guid>
-      <description>Hier komt een persoonlijke introductie, wat je drijft, waarom bij de dataverbinders.</description>
     </item>
     
     <item>
@@ -34,15 +25,6 @@
       <description>Vanaf het begin hebben wij met huisartsen, data-scientist, kan-wel-jurist, ethica gepleit voor lokale registratie van verdenkingen en besmettingen, om zo betere inzichten te krijgen in verspreiding van COVID-19.
 De huisarts en de eerstelijn als buitengewoon opsporingsambtenaren voor corona. Lokale inzicht in verspreiding, gekoppeld aan directe zorg en regionaal en landelijk inzichten voor beleid hadden wat ons betreft hand in hand kunnen gaan.
 Het heeft ons een schat aan kennis opgeleverd. Mooie onderlinge verbinding opgeleverd tussen de initiatiefnemers, maar helaas niet de opdracht om dit op regio niveau verder te ontwikkelen.</description>
-    </item>
-    
-    <item>
-      <title>Wet Publieke Gezondheid en COVID-19.</title>
-      <link>https://dataverbinders.github.io/post/wet-publieke-gezondheid-covid/</link>
-      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dataverbinders.github.io/post/wet-publieke-gezondheid-covid/</guid>
-      <description>Dit weekend heb ik de Wet Publieke Gezondheid bekeken. Mijn conclusie? De Wet Publieke Gezondheid is niet geschreven voor infectieziekten zoals Covid-19, waarbij een grootschalige verspreiding snel en relatief makkelijk kan plaatsvinden.Ten eerste is alleen een meldplicht opgenomen voor de arts en het hoofd van het laboratorium. Ten tweede ontbreekt in de Wet Publieke Gezondheid een terugkoppelingsmogelijkheid naar de zorgverleners. Individuele maatregelen mogen genomen worden. Er mogen maatregelen getroffen worden tegen bedrijven.</description>
     </item>
     
   </channel>
