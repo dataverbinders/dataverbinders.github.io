@@ -1,2 +1,3 @@
 # dataverbinders.github.io
-Public website dataverbinders.nl
+- Old public website dataverbinders.nl (Hugo site)
+- Currently contains redirect to new website dedataverbinders.nl which is hosted on Ghost
